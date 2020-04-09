@@ -1,0 +1,25 @@
+A well balanced engineer with real-world experience in mechanical and software engineering fields looking to specialize as a DevOps engineer.  Software development experience with full-stack, automation, and cloud deployment tools at BIOVIA.
+
+Led multiple key DevOps projects at BIOVIA, including creating an Ansible based automation framework for multiple application teams and transitioning teams from Jenkins and Perforce to GitLab and Git. 
+
+A self-starter that excels at learning new tools and concepts, which naturally led to a keen interest in DevOps methods and technologies. 
+
+Initially employed at BIOVIA as a full stack developer, but naturally transitioned into a DevOps role.  Utilized Angular, Node.js, Java, Groovy, TypeScript, JavaScript, HTML for BIOVIA Hub Scientific Lab Management web application before shifting roles, assisting in feature development, code optimization and bug fixing.
+
+Led a Deployment Automation team to develop an automation framework for multiple product teams. Delivered a library of Ansible scripts to deploy and maintain our various products with a strong emphasis on modularity and communication/standardization between application teams.  Reduced the application suite upgrade time for a large customer from 3 days (manual install and IQ) to 6 hours (including automated IQ).
+
+Also was in charge of maintaining the Jenkins CI pipeline and peripherals (Maven repos, Oracle DBs, Linux/Windows nodes, Perforce), and later transitioned the team to GitLab and Git.  Redesigned our entire CI pipeline to run in Docker containers in order to fully utilize GitLab's docker executor, ensuring each node was immutable.  Reduced the CI pipeline cycle time from 1 pipeline every 3 hours (Jenkins, static nodes) to any number of parallel pipelines taking one hour each (GitLab, containerized nodes).  
+
+Used Ansible to fully automate CI pipeline runner provisioning, maintenance, and orchestration.  Used Docker and Docker-Compose to continuously deliver application images and integrated environments for multiple teams.  
+
+Attended a 3 day AWS Solutions Architect Bootcamp (certificate exam scheduled).  Integrated S3, EC2, and ECR into every day work and various automated solutions.  Some familiarity with Kubernetes and Terraform, and eager to learn more.  
+
+
+UCSD B.S. Aerospace Engineering 2015
+
+Tools: 
+GitLab, Jenkins, Perforce, Git, Ansible, AWS (ECR, EC2, S3, VPC Architecture), vRA, Terraform, Docker/Docker-Compose, Unix/Linux
+
+Languages:
+C++, Javascript, HTML, Node, SQL, PHP, TypeScript, Java, Groovy, YAML, Bash, Powershell
+
